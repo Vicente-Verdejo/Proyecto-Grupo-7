@@ -1,0 +1,24 @@
+
+body{
+  background-color: #99ffb8;
+  margin-left: 20px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;
+  padding: 10px 10px 10px 10px;
+  border: 3px solid bla;
+}
+th{
+  border: 1px double black;
+  width: 40%;
+  text-align: center;
+}
+td{
+  border: 1px double black;
+  text-align: center;
+}
+p{
+  border: 1px ridge black;
+}
+h1{
+  border: 05px ridge black;
+  text-align: center;
+  
+}
